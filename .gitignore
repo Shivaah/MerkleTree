@@ -57,6 +57,13 @@ artifacts/
 # StyleCop
 StyleCopReport.xml
 
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
 # Files built by Visual Studio
 *_i.c
 *_p.c
